@@ -1,16 +1,16 @@
 /*
-    The complete pack of the CrossRoads Cinema theme. This file includes all the modules and the main theme.
+    The complete pack of the CrossRoad_Cinema theme. This file includes all the modules and the main theme.
     If you wish to use only some of the modules, you can import them individually.
-    You can grab the base theme by changing CrossRoads Cinema.css to base.css in the first line.
+    You can grab the base theme by changing CrossRoad_Cinema.css to base.css in the first line.
 */
 
-@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoads Cinema@latest/theme/base.css");
-@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoads Cinema@latest/theme/modules/static-sidebar.css");
-@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoads Cinema@latest/theme/modules/central-libraries-small.css");
-@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoads Cinema@latest/theme/modules/change-logo.css");
-@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoads Cinema@latest/theme/modules/count-indicators.css");
-@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoads Cinema@latest/theme/modules/forgot-password.css");
-@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoads Cinema@latest/theme/modules/hide-my-media.css");
-@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoads Cinema@latest/theme/modules/moving-cards.css");
-@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoads Cinema@latest/theme/modules/smaller-cast.css");
-@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoads Cinema@latest/theme/modules/floating-progress.css");
+@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoad_Cinema@latest/theme/base.css");
+@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoad_Cinema@latest/theme/modules/static-sidebar.css");
+@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoad_Cinema@latest/theme/modules/central-libraries-small.css");
+@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoad_Cinema@latest/theme/modules/change-logo.css");
+@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoad_Cinema@latest/theme/modules/count-indicators.css");
+@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoad_Cinema@latest/theme/modules/forgot-password.css");
+@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoad_Cinema@latest/theme/modules/hide-my-media.css");
+@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoad_Cinema@latest/theme/modules/moving-cards.css");
+@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoad_Cinema@latest/theme/modules/smaller-cast.css");
+@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoad_Cinema@latest/theme/modules/floating-progress.css");

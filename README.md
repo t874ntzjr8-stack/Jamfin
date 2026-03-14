@@ -1,9 +1,9 @@
 <div align="center">
 <img src="assets/logo.png" alt="Logo" width="125"/>
 
-[![Download Hits](https://data.jsdelivr.com/v1/package/gh/JamsRepos/CrossRoads Cinema/badge)](https://www.jsdelivr.com/package/gh/JamsRepos/CrossRoads Cinema)
+[![Download Hits](https://data.jsdelivr.com/v1/package/gh/JamsRepos/CrossRoad_Cinema/badge)](https://www.jsdelivr.com/package/gh/JamsRepos/CrossRoad_Cinema)
 
-( <a href="https://github.com/JamsRepos/CrossRoads Cinema#ℹ%EF%B8%8F-welcome">About</a> - <a href="https://github.com/JamsRepos/CrossRoads Cinema#-screenshots">Screenshots</a> )
+( <a href="https://github.com/JamsRepos/CrossRoad_Cinema#ℹ%EF%B8%8F-welcome">About</a> - <a href="https://github.com/JamsRepos/CrossRoad_Cinema#-screenshots">Screenshots</a> )
 
 ## ℹ️ Welcome
 
@@ -20,7 +20,7 @@ The following line includes the base theme as well as all our optional modules. 
 <div align="left">
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoads Cinema@latest/theme/complete.css");
+@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoad_Cinema@latest/theme/complete.css");
 ```
 
 </div>
@@ -30,7 +30,7 @@ If you just want the theme without all our modules integrated, simply copy this 
 <div align="left">
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoads Cinema@latest/theme/base.css");
+@import url("https://cdn.jsdelivr.net/gh/JamsRepos/CrossRoad_Cinema@latest/theme/base.css");
 ```
 
 </div>

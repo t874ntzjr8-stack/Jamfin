@@ -9,7 +9,7 @@ if (!branch) {
  */
 const config = {
     branches: ["main"],
-    repositoryUrl: "https://github.com/JamsRepos/CrossRoads Cinema.git",
+    repositoryUrl: "https://github.com/JamsRepos/CrossRoad_Cinema.git",
     plugins: [
         [
             "@semantic-release/commit-analyzer",
